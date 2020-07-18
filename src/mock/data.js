@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'Sou um entusiasta e amante da tecnologia, estudo constantemente sobre estatística, machine learning, data science (ciência de dados) sou focado em engenharia 4.0, junto tecnologia e engenharia com práticas que facilitam a rastreabilidade, serialização e a tomada de decisões embasadas em informações e dados.',
   paragraphTwo:
-    'Acredito que decisões tomadas com base na lógica, metodologia e estáticas são essências para o sucesso contudo a chave e o real diferencial competitivo se encontra nas pessoas e em um time bem unido voltado a um único objetivo.',
+    'Acredito que decisões tomadas com base na lógica, metodologia e estatística são essências para o sucesso, contudo a chave e o real diferencial competitivo se encontra nas pessoas e em um time bem unido voltado a um único objetivo.',
   paragraphThree: ' ',
   resume: 'https://drive.google.com/file/d/1ZpYGV_S_sE2uEsHHzkWN_psbQWMVUAl5/view?usp=sharing', // if no resume, the button will not show up
 };
@@ -35,7 +35,7 @@ export const projectsData = [
     info:
       'Este foi um estudo que eu fiz para o curso do AceleraDev voltado a data science, este curso era oferecido pela Codenation que recentemente foi comprada pela Trybe. Neste desafio o objetivo foi desenvolver um produto para fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).',
     info2:
-      'Para resolve-lo, usei o python para os métodos de machine learning(ML) e também para a normalização, seleção e preparação dos dados.',
+      'Para resolvê-lo, usei o python para os métodos de machine learning(ML) e também para a normalização, seleção e preparação dos dados.',
     url: '',
     repo: 'https://github.com/DiogoVilasBoas/Estudo', // if no repo, the button will not show up
   },
@@ -44,7 +44,7 @@ export const projectsData = [
     img: 'Estatistica.jpg',
     title: 'Estudos de Estatística',
     info:
-      'Neste repositório do Github eu deixo todos os meus estudos referentes a estatística. Esses estudos veem de diversas fontes (alura, udemy, livros, etc...).',
+      'Neste repositório do Github eu deixo todos os meus estudos referentes a estatística. Esses estudos vem de diversas fontes (alura, udemy, livros, etc...).',
     info2:
       'Para cada estudo ou curso da área da estatística que realizo, eu o registro na forma de notebook dentro deste repositório do Github para futuras consultas.',
     url: 'https://github.com/DiogoVilasBoas/Estudo',
