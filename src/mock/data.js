@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Acredito que decisões tomadas com base na lógica, metodologia e estatística são essências para o sucesso, contudo a chave e o real diferencial competitivo se encontra nas pessoas e em um time bem unido voltado a um único objetivo.',
   paragraphThree: ' ',
-  resume: 'https://drive.google.com/file/d/1ZpYGV_S_sE2uEsHHzkWN_psbQWMVUAl5/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/10UoxQAmy8ln9vVK17K-0ajYLeblG_P5B/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -36,7 +36,7 @@ export const projectsData = [
       'Este foi um estudo que eu fiz para o curso do AceleraDev voltado a data science, este curso era oferecido pela Codenation que recentemente foi comprada pela Trybe. Neste desafio o objetivo foi desenvolver um produto para fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).',
     info2:
       'Para resolvê-lo, usei o python para os métodos de machine learning(ML) e também para a normalização, seleção e preparação dos dados.',
-    url: '',
+    url: 'https://www.codenation.dev/',
     repo: 'https://github.com/DiogoVilasBoas/Acelera_Dev', // if no repo, the button will not show up
   },
   {
