@@ -62,17 +62,17 @@ export const projectsData = [
       'https://cursos.alura.com.br/user/diogovilasboas-eng/fullCertificate/2cbee18a3c282db447abdb107088cdd9',
     repo: '', // if no repo, the button will not show up
   },
-  // {
-  // id: nanoid(),
-  //  img: 'AI.jpg',
-  //  title: 'Modelos de Machine Learning',
-  // info:
-  'Neste repositório eu mantenho um registro de modelos de ML (Machine Learning) que eu já apliquei em bases de testes como as do Kagle.',
-  //  info2:
-  'Esse registro me ajuda em tarefas do dia a dia assim como na hora de escolher o modelo que irei utilizar em algum determinado estudo.',
-  // url: 'https://github.com/DiogoVilasBoas/Estudo',
-  // repo: '', // if no repo, the button will not show up
-  // },
+  {
+    id: nanoid(),
+    img: 'AI.jpg',
+    title: 'Modelos de Machine Learning',
+    info:
+      'Neste repositório eu mantenho um registro de modelos de ML (Machine Learning) que eu já apliquei em bases de testes como as do Kagle.',
+    info2:
+      'Esse registro me ajuda em tarefas do dia a dia assim como na hora de escolher o modelo que irei utilizar em algum determinado estudo.',
+    url: 'https://github.com/DiogoVilasBoas/Estudo',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
