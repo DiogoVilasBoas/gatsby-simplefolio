@@ -57,22 +57,22 @@ export const projectsData = [
     info:
       'No intuito da melhoria contínua e do meu autodesenvolvimento, eu estipulei para mim mesmo uma meta anual de realizar na média pelo menos uma hora de estudo por dia. Dentro disso eu encontrei dentro da plataforma do Alura, uma vasta variedade de cursos para suprir essa minha cede por conhecimento.',
     info2:
-      'No link abaixo são mostrados os meu certificados e uma lista de todos os cursos que já realizei na plataforma, desde oratório, inteligência emocional até cursos mais específicos como NLP, IA e programação em Python.',
+      'No link abaixo são mostrados os meus certificados e uma lista de todos os cursos que já realizei na plataforma, desde oratório, inteligência emocional até cursos mais específicos como NLP, IA e programação em Python.',
     url:
       'https://cursos.alura.com.br/user/diogovilasboas-eng/fullCertificate/2cbee18a3c282db447abdb107088cdd9',
     repo: '', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'AI.jpg',
-    title: 'Modelos de Machine Learning',
-    info:
-      'Neste repositório eu mantenho um registro de modelos de ML (Machine Learning) que eu já apliquei em bases de testes como as do Kagle.',
-    info2:
-      'Esse registro me ajuda em tarefas do dia a dia assim como na hora de escolher o modelo que irei utilizar em algum determinado estudo.',
-    url: 'https://github.com/DiogoVilasBoas/Estudo',
-    repo: '', // if no repo, the button will not show up
-  },
+  // {
+  // id: nanoid(),
+  //  img: 'AI.jpg',
+  //  title: 'Modelos de Machine Learning',
+  // info:
+  'Neste repositório eu mantenho um registro de modelos de ML (Machine Learning) que eu já apliquei em bases de testes como as do Kagle.',
+  //  info2:
+  'Esse registro me ajuda em tarefas do dia a dia assim como na hora de escolher o modelo que irei utilizar em algum determinado estudo.',
+  // url: 'https://github.com/DiogoVilasBoas/Estudo',
+  // repo: '', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
