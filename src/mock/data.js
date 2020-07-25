@@ -37,7 +37,7 @@ export const projectsData = [
     info2:
       'Para resolvê-lo, usei o python para os métodos de machine learning(ML) e também para a normalização, seleção e preparação dos dados.',
     url: '',
-    repo: 'https://github.com/DiogoVilasBoas/Estudo', // if no repo, the button will not show up
+    repo: 'https://github.com/DiogoVilasBoas/Acelera_Dev', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -47,7 +47,19 @@ export const projectsData = [
       'Neste repositório do Github eu deixo todos os meus estudos referentes a estatística. Esses estudos vem de diversas fontes (alura, udemy, livros, etc...).',
     info2:
       'Para cada estudo ou curso da área da estatística que realizo, eu o registro na forma de notebook dentro deste repositório do Github para futuras consultas.',
-    url: 'https://github.com/DiogoVilasBoas/Estudo',
+    url: 'https://github.com/DiogoVilasBoas/Alura_Estatistica_parte1',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Alura.jpg',
+    title: 'Cursos do Alura',
+    info:
+      'No intuito da melhoria contínua e do meu autodesenvolvimento, eu estipulei para mim mesmo uma meta anual de realizar na média pelo menos uma hora de estudo por dia. Dentro disso eu encontrei dentro da plataforma do Alura, uma vasta variedade de cursos para suprir essa minha cede por conhecimento.',
+    info2:
+      'No link abaixo são mostrados os meu certificados e uma lista de todos os cursos que já realizei na plataforma, desde oratório, inteligência emocional até cursos mais específicos como NLP, IA e programação em Python.',
+    url:
+      'https://cursos.alura.com.br/user/diogovilasboas-eng/fullCertificate/2cbee18a3c282db447abdb107088cdd9',
     repo: '', // if no repo, the button will not show up
   },
   {
