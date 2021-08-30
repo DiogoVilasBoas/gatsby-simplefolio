@@ -2,28 +2,28 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Diogo V. B. de Souza | Agente Local de Inovação no SEBRAE', // e.g: 'Name | Developer'
+  title: 'Diogo V. B. | Agente Local de Inovação no SEBRAE', // e.g: 'Name | Developer'
   lang: 'pt', // e.g: en, es, fr, jp
   description: 'Sejam bem vindos e bem vindas ao meu site)', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: 'Oi, meu nome é', // Hello, my name is
-  name: 'Diogo V. B. de Souza', // Diogo
-  subtitle: 'e levo gratuitamente inovação para as micro e pequnas empresas junto com o SEBRAE',
-  cta: 'Saiba como?',
+  title: 'Você quer saber como eu, Diogo, ', // Hello, my name is
+  name: 'de forma gratuita ', // Diogo
+  subtitle: 'posso ajudar a sua empresa a aumentar o seu faturamento e reduzir os custos?',
+  cta: 'veja como?',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Sou um entusiasta e amante da tecnologia, estudo constantemente sobre estatística, machine learning, data science (ciência de dados) sou focado em engenharia 4.0, junto tecnologia e engenharia com práticas que facilitam a rastreabilidade, serialização e a tomada de decisões embasadas em informações e dados.',
+    'Não é de hoje que as empresas desejam aumentar o faturamento e reduzir os seus custos. Mas e se eu te dissesse que o SEBRAE em parceria com o ministério da economia e diversos outros criaram um programa que leva exatamente isso para as micro e pequenas empresas? Bem este é o programa Brasil Mais/Agentes Locais de Inovação e eu Diogo faço parte dele como um Agente Local de Inovação ou melhor dizendo um ALI.',
   paragraphTwo:
-    'Acredito que decisões tomadas com base na lógica, metodologia e estatística são essências para o sucesso, contudo a chave e o real diferencial competitivo se encontra nas pessoas e em um time bem unido voltado a um único objetivo.',
-  paragraphThree: ' ',
-  resume: 'https://drive.google.com/file/d/10UoxQAmy8ln9vVK17K-0ajYLeblG_P5B/view?usp=sharing', // if no resume, the button will not show up
+    'O programa é um sucesso, até o momento 81% das empresas participantes conseguiram conquistar novos clientes e que um a cada três conseguiu reduzir os custos da empresa em até 20% (fonte: https://brasilmais.economia.gov.br/noticia/sebrae-fala-sobre-o-programa-brasil-mais) com objetivo mínimo de melhorar a produtividade da empresa em 10%.',
+  paragraphThree: 'Legal não é mesmo? O programa acontece no Brasil inteiro, inclusive aqui no norte de SC onde eu assim como meus colegas atuamos atendendo as microempresas e empresas de pequeno (infelizmente não atendemos os MEIs). São poucas vagas por isso para garantir a sua na fila de espera clique em “se inscreva”.',
+  resume: 'https://forms.gle/qm6GaGghcHpzXkKt8', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
