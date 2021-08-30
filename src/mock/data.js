@@ -22,7 +22,7 @@ export const aboutData = {
     'Não é de hoje que as empresas desejam aumentar o faturamento e reduzir os seus custos. Mas e se eu te dissesse que o SEBRAE em parceria com o ministério da economia e diversos outros criaram um programa que leva exatamente isso para as micro e pequenas empresas? Bem este é o programa Brasil Mais/Agentes Locais de Inovação e eu Diogo faço parte dele como um Agente Local de Inovação ou melhor dizendo um ALI.',
   paragraphTwo:
     'O programa é um sucesso, até o momento 81% das empresas participantes conseguiram conquistar novos clientes e que um a cada três conseguiu reduzir os custos da empresa em até 20% (fonte: https://brasilmais.economia.gov.br/noticia/sebrae-fala-sobre-o-programa-brasil-mais) com objetivo mínimo de melhorar a produtividade da empresa em 10%.',
-  paragraphThree: 'Legal não é mesmo? O programa acontece no Brasil inteiro, inclusive aqui no norte de SC onde eu assim como meus colegas atuamos atendendo as microempresas e empresas de pequeno (infelizmente não atendemos os MEIs). São poucas vagas por isso para garantir a sua na fila de espera clique em “se inscreva”.',
+  paragraphThree: 'Legal não é mesmo? O programa acontece no Brasil inteiro, inclusive aqui no norte de SC onde eu assim como meus colegas atuamos atendendo as microempresas e empresas de pequeno (infelizmente não atendemos os MEIs). São poucas vagas por isso para garantir a sua na fila de espera clique e saber mais clique em "Resume" que resumiremos tudo que você precisa saber e tiraremos as suas dúvidas',
   resume: 'https://forms.gle/qm6GaGghcHpzXkKt8', // if no resume, the button will not show up
 };
 
