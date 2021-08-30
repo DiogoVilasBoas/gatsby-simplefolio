@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Diogo V. B. de Souza | Cientista de Dados', // e.g: 'Name | Developer'
+  title: 'Diogo V. B. de Souza | Agente Local de Inovação no SEBRAE', // e.g: 'Name | Developer'
   lang: 'pt', // e.g: en, es, fr, jp
   description: 'Sejam bem vindos e bem vindas ao meu site)', // e.g: Welcome to my website
 };
@@ -11,8 +11,8 @@ export const headData = {
 export const heroData = {
   title: 'Oi, meu nome é', // Hello, my name is
   name: 'Diogo V. B. de Souza', // Diogo
-  subtitle: 'e sou um cientista de dados',
-  cta: 'Saiba mais',
+  subtitle: 'e levo gratuitamente inovação para as micro e pequnas empresas junto com o SEBRAE',
+  cta: 'Saiba como?',
 };
 
 // ABOUT DATA
